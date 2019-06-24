@@ -3,12 +3,12 @@ Content that helped me boost my dribbble account ✌
 
 ## Dribbble Signature
 
-`
-<strong>Press L</strong>  to show some love
+> <strong>Press L</strong>  to show some love
 
-Follow me on:
-<a href="https://dribbble.com/dmraptis" rel="nofollow noreferrer">Dribbble</a> | <a href="https://twitter.com/d__raptis" rel="nofollow noreferrer">Twitter</a> | <a href="https://medium.com/@dmraptis" rel="nofollow noreferrer">Medium</a>
-`
+> Follow me on:
+> <a href="https://dribbble.com/dmraptis" rel="nofollow noreferrer">Dribbble</a> | <a href="https://twitter.com/d__raptis" rel="nofollow noreferrer">Twitter</a> | <a href="https://medium.com/@dmraptis" rel="nofollow noreferrer">Medium</a>
+
+🧠 Edit this file to get the markdown code
 
 ## Tags
 	
