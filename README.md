@@ -24,3 +24,4 @@ app, design, minimal, ui, uidesign, ui design, uiux, ui ux, user experience, use
 - Face detection is the first and essential step for face recognition and is used in many areas such as security, bio-metrics, entertainment, personal safety, etc.
 -The goal of a wireframe is to communicate to various stakeholders the intended implementation of technical requirements.
 -The main goal of the dashboard is to get the message at a glance, every little thing counts.
+- One of the key advantages of <strong>landing pages</strong> is their ability to bring traffic to the next stage of the sales funnel.
