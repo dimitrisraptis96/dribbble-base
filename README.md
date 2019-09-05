@@ -27,3 +27,4 @@ app, design, minimal, ui, uidesign, ui design, uiux, ui ux, user experience, use
 - One of the key advantages of <strong>landing pages</strong> is their ability to bring traffic to the next stage of the sales funnel.
 - The isometric design brings 3D world into flat design. 
 - I really cannot describe how much I love shadow in design
+- Everyone loves to hear stories, even the investors. So tell an exciting story about your startup.
