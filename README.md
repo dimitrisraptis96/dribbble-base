@@ -3,10 +3,18 @@ Content that helped me boost my dribbble account ✌
 
 ## Dribbble Signature
 
+### @dmraptis
 <strong>Press L</strong>  to show some love
 
 Follow me on:
 <a href="https://dribbble.com/dmraptis" rel="nofollow noreferrer">Dribbble</a> | <a href="https://twitter.com/d__raptis" rel="nofollow noreferrer">Twitter</a> | <a href="https://medium.com/@dmraptis" rel="nofollow noreferrer">Medium</a>
+
+### @VisualEyeshq
+
+<strong>Press L</strong>  to show some ❤️
+
+Follow us on:
+<a href="https://dribbble.com/VisualEyesHQ" rel="nofollow noreferrer">Dribbble</a> | <a href="https://twitter.com/VisualEyesHQ" rel="nofollow noreferrer">Twitter</a> | <a href="https://spectrum.chat/visualeyes-designers?tab=posts" rel="nofollow noreferrer">Spectrum</a>
 
 🧠 Edit this file to get the markdown code
 
@@ -15,6 +23,8 @@ Follow me on:
 ### UI Design
 
 app, design, minimal, ui, uidesign, ui design, uiux, ui ux, user experience, userinterface, user interface, user interface design, ux, uxdesign, ux design, uxui, ux ui
+
+figma, sketch, adobexd, 
 
 ## Older Quotes
 
