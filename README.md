@@ -24,7 +24,7 @@ Follow us on:
 
 app, design, minimal, ui, uidesign, ui design, uiux, ui ux, user experience, userinterface, user interface, user interface design, ux, uxdesign, ux design, uxui, ux ui
 
-figma, sketch, adobexd, 
+adobexd, dashboard, design, figma, illustration, isometric, minimal, sketch, ui, uidesign, ui design, uiux, ui ux, user interface, user interface design, ux, uxdesign, ux design, uxui, ux ui 
 
 ## Older Quotes
 
