@@ -38,3 +38,4 @@ adobexd, dashboard, design, figma, illustration, isometric, minimal, sketch, ui,
 - The isometric design brings 3D world into flat design. 
 - I really cannot describe how much I love shadow in design
 - Everyone loves to hear stories, even the investors. So tell an exciting story about your startup.
+- A logo is simply a type of design a company, brand or individual chooses to represent themselves by.
