@@ -39,3 +39,4 @@ adobexd, dashboard, design, figma, illustration, isometric, minimal, sketch, ui,
 - I really cannot describe how much I love shadow in design
 - Everyone loves to hear stories, even the investors. So tell an exciting story about your startup.
 - A logo is simply a type of design a company, brand or individual chooses to represent themselves by.
+- Your brand identity is what makes you instantly recognizable to your customers.
