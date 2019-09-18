@@ -26,6 +26,20 @@ app, design, minimal, ui, uidesign, ui design, uiux, ui ux, user experience, use
 
 adobexd, dashboard, design, figma, illustration, isometric, minimal, sketch, ui, uidesign, ui design, uiux, ui ux, user interface, user interface design, ux, uxdesign, ux design, uxui, ux ui 
 
+## GIVEAWAY POST
+
+🚨GIVEAWAY🚨
+
+I gladly announce that I have 2 Dribbble invites for 2 passionate players!
+
+The process to win them is pretty straightforward:
+
+1) Press L & follow me to show some ❤️
+2) Send me your Dribbble profile or personal Portfolio via this Typeform survey
+3) Enjoy designing
+
+The winners will be announced on Saturday 21st!
+
 ## Older Quotes
 
 - Invitation by email is an important step in building hooked products.
@@ -40,3 +54,4 @@ adobexd, dashboard, design, figma, illustration, isometric, minimal, sketch, ui,
 - Everyone loves to hear stories, even the investors. So tell an exciting story about your startup.
 - A logo is simply a type of design a company, brand or individual chooses to represent themselves by.
 - Your brand identity is what makes you instantly recognizable to your customers.
+
