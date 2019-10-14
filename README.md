@@ -54,4 +54,5 @@ The winners will be announced on Saturday 21st!
 - Everyone loves to hear stories, even the investors. So tell an exciting story about your startup.
 - A logo is simply a type of design a company, brand or individual chooses to represent themselves by.
 - Your brand identity is what makes you instantly recognizable to your customers.
+- My kind of Call to Action in order to push you to have a look at <a href="">my articlea</a>.
 
