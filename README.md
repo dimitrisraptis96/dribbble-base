@@ -54,5 +54,5 @@ The winners will be announced on Saturday 21st!
 - Everyone loves to hear stories, even the investors. So tell an exciting story about your startup.
 - A logo is simply a type of design a company, brand or individual chooses to represent themselves by.
 - Your brand identity is what makes you instantly recognizable to your customers.
-- A creepy finger that pushes you to read < href="https://medium.muz.li/call-to-action-an-extensive-guide-140fef523b08" rel="nofollow noreferrer">my brand new article</a> on Muzli.
+- A creepy finger that pushes you to read <a href="https://medium.muz.li/call-to-action-an-extensive-guide-140fef523b08" rel="nofollow noreferrer">my brand new article</a> on Muzli.
 
