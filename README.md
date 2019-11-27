@@ -14,7 +14,7 @@ Follow me on:
 <strong>Press L</strong>  to show some ❤️
 
 Follow us on:
-<a href="https://dribbble.com/VisualEyesHQ" rel="nofollow noreferrer">Dribbble</a> | <a href="https://twitter.com/VisualEyesHQ" rel="nofollow noreferrer">Twitter</a> | <a href="https://spectrum.chat/visualeyes-designers?tab=posts" rel="nofollow noreferrer">Spectrum</a>
+<a href="https://dribbble.com/VisualEyesHQ" rel="nofollow noreferrer">Dribbble</a> | <a href=""https://www.instagram.com/visualeyes_hq/>Instagram</a> | <a href="https://twitter.com/VisualEyesHQ" rel="nofollow noreferrer">Twitter</a> | <a href="https://spectrum.chat/visualeyes-designers?tab=posts" rel="nofollow noreferrer">Spectrum</a>
 
 🧠 Edit this file to get the markdown code
 
