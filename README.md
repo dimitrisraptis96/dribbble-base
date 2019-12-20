@@ -55,4 +55,15 @@ The winners will be announced on Saturday 21st!
 - A logo is simply a type of design a company, brand or individual chooses to represent themselves by.
 - Your brand identity is what makes you instantly recognizable to your customers.
 - My way to make you read <a href="https://medium.muz.li/call-to-action-an-extensive-guide-140fef523b08" rel="nofollow noreferrer">my fancy new article</a> on Muzli.
+- <strong>Validate Client Objectives </strong>
+
+Setting up objectives with your client about a project can be a pain in the ass.
+
+This is the <strong>1st shot</strong> of a collection that illustrates my futuristic approach to the future of design collaboration with our clients.
+
+You can learn more about <a href="https://medium.muz.li/imagine-design-with-metrics-in-2020-b0c46900e34f" rel="nofollow noreferrer">my thoughts about design process in 2020</a> on Muzli. 👈
+
+Follow my work on:
+ 
+<a href="https://raptis.wtf" rel="nofollow noreferrer">Website</a> | <a href="https://twitter.com/d__raptis" rel="nofollow noreferrer">Twitter</a> | <a href="https://medium.com/@dmraptis" rel="nofollow noreferrer">Medium</a>
 
